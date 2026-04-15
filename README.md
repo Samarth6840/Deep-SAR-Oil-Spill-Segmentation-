@@ -49,6 +49,11 @@ Upload SAR images or select from validation samples to see predictions. The app 
 - Overlay visualization
 - IoU/Dice metrics (for validation data)
 
+<img width="1416" height="844" alt="image" src="https://github.com/user-attachments/assets/7447745e-915a-497e-98a6-f7718442471c" />
+<img width="1372" height="666" alt="image" src="https://github.com/user-attachments/assets/fecc3b25-f19f-4ec8-80f2-b4166708fdbe" />
+
+
+
 ## Files
 
 - `App1.py` - Streamlit dashboard
